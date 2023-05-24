@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(50, 65, 79)
+}
+#header{
+    background-color:#2176f5;
+}
+
+#icons a:hover{
+    color: cyan;
+}
+
+ #nclr a:hover{
+ color: aliceblue;
+}
+
+h5{
+  font-weight: 1;
+  color: aliceblue;
+  
+}
+
+
+
+
+
+
+
+
+  
+  

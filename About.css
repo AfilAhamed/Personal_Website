@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(50, 65, 79);
+  }
+#header{
+    background-color:#2176f5;
+}
+
+#icons a:hover{
+    color: cyan;
+}
+
+ #nclr a:hover{
+ color: aliceblue;
+}
+
+#sd {
+    font-weight: 700;
+    font-size: 26px;
+    color: #2dfc9c;
+  }
+  
+  #abt{
+    font-weight: 900;
+  }
+
+ 
